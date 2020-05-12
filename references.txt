@@ -1,0 +1,7 @@
+Stackoverflow. "Convert long to two int and vice versa".
+https://stackoverflow.com/questions/10686178/convert-long-to-two-int-and-vice-versa/11215465
+
+Stackoverflow. "Optimizing Conway's 'Game of Life'".
+https://stackoverflow.com/questions/40485/optimizing-conways-game-of-life
+
+Pattern files sourced from LifeWiki:

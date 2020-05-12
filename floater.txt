@@ -1,0 +1,7 @@
+!Name: Floater
+!Author: unknown
+!Just a simple floater
+!Bounding box: 36 × 9
+.O
+..O
+OOO
